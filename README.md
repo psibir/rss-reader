@@ -1,5 +1,8 @@
 # rss-reader
 An RSS reader in Python
+
+Description: Queries a list of RSS feeds stored in a text file and outputs the story title, summary, source, and a shortened link to the story in the terminal.
+
 # Usage
 1. Use the command `git clone`, then paste the link from this page, or copy the command and link from below:
 
