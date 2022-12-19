@@ -12,15 +12,28 @@ An RSS reader in Python
 
         cd ~/rss-reader
 
-3. Install requirements using:
+
+3. Create a virual environment using the `venv` command:
+        
+        
+        python3 -m venv .venv
+        
+        
+4. Activate the virrtual environment using the `source` command:
+
+
+        source .venv/bin/activate
+
+
+5. Install requirements using:
 
 
         pip install -r requirements.txt
 
 
-4. Enter the web addresses of the RSS feeds you wish to read in `urls.txt` seperated by a comma. The example file returns news from Northwest Arkansas.
+6. Enter the web addresses of the RSS feeds you wish to read in `urls.txt` seperated by a comma. The example file returns news from Northwest Arkansas.
 
-5. Run the script using 
+7. Run the script using 
 
 
         python main.py
