@@ -19,7 +19,7 @@ An RSS reader in Python
         python3 -m venv .venv
         
         
-4. Activate the virrtual environment using the `source` command:
+4. Activate the virtual environment using the `source` command:
 
 
         source .venv/bin/activate
