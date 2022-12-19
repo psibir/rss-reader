@@ -1,7 +1,7 @@
 # rss-reader
 An RSS reader in Python
 # Usage
-1. use the command `git clone`, then paste the link from your clipboard, or copy the command and link from below:
+1. Use the command `git clone`, then paste the link from this page, or copy the command and link from below:
 
 
         git clone "https://github.com/psibir/rss-reader.git"
