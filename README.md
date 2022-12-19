@@ -36,6 +36,6 @@ An RSS reader in Python
 7. Run the script using 
 
 
-        python main.py
+        python3 main.py
 
 
